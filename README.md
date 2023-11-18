@@ -1,6 +1,8 @@
-# Phaser 3 Webpack Project Template
+# TF UI Concept
 
-A Phaser 3 Project Template
+This is a quick concept piece to showcase a UI idea I had. The code is *not* pretty, as I was focused on expedience to get feedback on an idea. There's a lot of really bad practices here.
+
+This can be found on Vercel here.
 
 ### Requirements
 
